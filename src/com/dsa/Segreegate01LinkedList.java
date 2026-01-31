@@ -19,6 +19,7 @@ public class Segreegate01LinkedList {
 	}
 
 	public ListNode fetch01LinkedList(ListNode head) {
+		
 		if (head == null || head.next == null)
 			return head;
 
